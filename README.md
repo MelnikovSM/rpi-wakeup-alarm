@@ -4,7 +4,7 @@ Requirements: omxplayer, tmux, cron
 
 Usage:
 
-1. Place your mp3's to audios/ dir.
+1. Create audios/ dir, then place your mp3's to it.
 
 2. Change audiosdir varrible at 2nd line of alarm.sh to path to audios/ dir.
 
